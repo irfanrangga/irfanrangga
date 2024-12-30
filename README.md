@@ -7,6 +7,8 @@
   <img width=47% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanrangga&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=true" />
 </a>
 
+<img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark"/>
+
 <!--
 **irfanrangga/irfanrangga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
