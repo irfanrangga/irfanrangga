@@ -1,7 +1,7 @@
 # Hi There, My Name is Irfan👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanrangga&layout=compact&theme=dracula"/>
-<img alt="mu stats" src="https://github-readme-stats.vercel.app/api?username=irfanrangga&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanrangga&layout=compact&theme=dracula&show_icons=true"/>
+<img alt="mu stats" src="https://github-readme-stats.vercel.app/api?username=irfanrangga&theme=dracula&show_icons=true"/>
 
 <!--
 **irfanrangga/irfanrangga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
