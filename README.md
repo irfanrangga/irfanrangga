@@ -1,6 +1,6 @@
 # Hi There, My Name is Irfan👋
 
-<img alt="mu stats" src="https://github-readme-stats.vercel.app/api?username=irfanrangga/>
+<img alt="mu stats" src="https://github-readme-stats.vercel.app/api?username=irfanrangga"/>
 
 <!--
 **irfanrangga/irfanrangga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
