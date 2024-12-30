@@ -1,6 +1,6 @@
 # Hi There, My Name is Irfan👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanrangga&layout=compact&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanrangga&layout=compact&theme=transparent"/>
 <img alt="mu stats" src="https://github-readme-stats.vercel.app/api?username=irfanrangga&theme=dracula&show_icons=true"/>
 
 <!--
