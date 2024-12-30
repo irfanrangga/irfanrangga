@@ -1,14 +1,8 @@
 # Hi There, My Name is Irfan👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=47% align="left" src="https://github-readme-stats.vercel.app/api?username=irfanrangga&theme=dracula&show_icons=true&hide_border=true&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width=47% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanrangga&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=true" />
-</a>
+<img width=47% align="left" src="https://github-readme-stats.vercel.app/api?username=irfanrangga&theme=dracula&show_icons=true&hide_border=true&rank_icon=github" />
 
-<img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark"/>
-
+<img width=47% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanrangga&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=true" />
 <!--
 **irfanrangga/irfanrangga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
